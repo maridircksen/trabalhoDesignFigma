@@ -1,2 +1,2 @@
 # trabalhoDesignFigma
-Trabalho utilizando  CSS3 + HTML5 - Nativo ou utilizando um Frameword de Responsividade. 
+Trabalho utilizando  CSS3 + HTML5 + Pouco de JS 
